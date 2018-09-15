@@ -1,4 +1,4 @@
-Virtual_Private_Network
+Virtual Private Network
 =======================
 
 Description
